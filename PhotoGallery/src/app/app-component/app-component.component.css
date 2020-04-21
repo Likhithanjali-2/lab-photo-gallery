@@ -1,0 +1,35 @@
+img{
+  margin-left: 10px;
+}
+#img1,
+#img2{
+  height: 280px;
+  width: 380px;
+}
+
+
+#img3 {
+  height: 280px;
+  width: 500px;
+}
+
+.div1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 0px;
+}
+
+#img5{
+  width: 450px;
+  height: 300px;
+}
+
+#img4 {
+  height: 300px;
+  width: 820px;
+}
+
+.div2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
